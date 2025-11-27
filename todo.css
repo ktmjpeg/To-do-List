@@ -1,0 +1,23 @@
+
+body{
+    font-family: Arial;
+    background-color: rgb(238, 228, 174);
+}
+.todo-css,.input-css{
+    display:grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap:10px;
+    row-gap:10px;
+}
+.input-css{
+    margin-bottom:10px;
+}
+.button{
+    background-color: rgb(41, 83, 221);
+    color: white;
+    
+}
+.button1{
+    background-color: rgb(247, 20, 3);
+    border: solid;
+}
